@@ -21,5 +21,4 @@ sensitivity, and 85% specificity, and an AUC of 0.98.
 
 **Novel Aspect**: Our results provide evidence that RCC diagnosis may be possible via a routine urine test. 
 
-Notebooks <br>
-Merge NMR and MS and the 
+
